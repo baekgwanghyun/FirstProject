@@ -1,7 +1,8 @@
-class test{
+System.out.println("fuck");class test{
 	public static void main(String[] args){
 
-		System.out.println("Heo");
+
+	//	System.out.println("Heo");
 		System.out.println("fuck");
 
 	}
