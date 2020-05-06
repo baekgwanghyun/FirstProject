@@ -3,5 +3,11 @@ class test{
 
 		System.out.println("Heo");
 
+		System.out.println("fuck"):
+
+
+
+
+
 	}
 }
